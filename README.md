@@ -1,5 +1,8 @@
+### Developed By: Safeeq Fazil A
+### Reg no: 212222240086
+### Date:
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
-### Date: 
+ 
 
 
 ### AIM:
